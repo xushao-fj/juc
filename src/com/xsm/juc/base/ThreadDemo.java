@@ -1,4 +1,4 @@
-package com.xsm.juc;
+package com.xsm.juc.base;
 
 /**
  * @author: xsm
